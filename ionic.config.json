@@ -1,0 +1,7 @@
+{
+  "name": "ProFirst",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
